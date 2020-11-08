@@ -1,3 +1,7 @@
+# ASSET
+
+Installs json-server and run json-server questionData.json in another window to make question data available to the scripts.
+
 # Accessment2Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
